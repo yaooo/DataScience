@@ -1,6 +1,7 @@
 # DataScience
 ## Prerequisites
 Python 3 required.
+Additional python pakages have to be installed based on the requirements.
 
 ## Run the code
 ```
