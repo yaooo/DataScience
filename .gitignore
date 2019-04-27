@@ -1,3 +1,4 @@
 Lab3/data/*.csv
 */key.json
 */keys.json
+*.gz
